@@ -1,4 +1,4 @@
-# codealpha_task2
+
 # Hangman Game
 
 This is a simple text-based Hangman game implemented in Python. The player guesses a randomly selected word one letter at a time, with a limit of 6 incorrect guesses.
